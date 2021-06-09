@@ -16,3 +16,7 @@ then check their product that is 1*3*4*6*33 = 2376 is a prime number or not also
 return 0 when the number is prime or return -1 when the number is not prime 
 
 [Solution]()
+
+## Question Three)
+
+
