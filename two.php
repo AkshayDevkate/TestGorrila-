@@ -20,7 +20,7 @@ if ($product < 2 ){
      return 1;
      echo "The number is below 2";
 
-     // If the number is prime 
+     // Condition to check whether the number is prime 
 
      for ($j = 2; $j <= $product /2 ; $j++){
           if ($product % $j == 0){
