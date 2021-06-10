@@ -21,7 +21,8 @@ return 0 when the number is prime or return -1 when the number is not prime
 [Solution](https://github.com/AkshayDevkate/TestGorrila-/blob/main/two.php)
 
 ## Question Three)
-Advance
+Advanced
 
+[question]()
 
 
