@@ -23,6 +23,6 @@ return 0 when the number is prime or return -1 when the number is not prime
 ## Question Three)
 Advanced
 
-[question]()
+[question](https://github.com/AkshayDevkate/TestGorrila-/blob/main/IMG_20210609_193337.jpg)
 
 
