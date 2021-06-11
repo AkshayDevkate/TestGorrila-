@@ -8,7 +8,6 @@ $length = sizeof($arrayp); // finding the length of array
 
 // echo "$length";
 
-
 // multiplying the product of each 
 for ($i = 0 ; $i < $length ; $i++ ){
 
@@ -36,7 +35,6 @@ if ($product < 2 ){
 
 }
 $arrayp = array(1,2,4,5,6,7); 
-
 
 //Returning values 
 
