@@ -26,7 +26,7 @@ Advanced
 [question](https://github.com/AkshayDevkate/TestGorrila-/blob/main/IMG_20210609_193337.jpg)
 
 
-Solution approach 1 with default parameterised constructor [Link]()
+Solution approach 1 with default parameterised constructor [Link](https://github.com/AkshayDevkate/TestGorrila-/blob/main/parameter.php)
 
 Solution approach 2 simple array sort [Link]()
 
