@@ -8,6 +8,7 @@ class ArraySort{// clss name
   }
 
   public function arrsort() { // call constructor
+    //sorting array
     sort($this->arrayPassed);
     return $this->arrayPassed;
   }
