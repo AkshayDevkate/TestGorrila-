@@ -1,7 +1,7 @@
 # TestGorilla
 
 ## Quesion one)
-Basic
+
 
 Check whether the number entered was even / odd 
 add all the numbers till the number entered 
@@ -10,7 +10,7 @@ For example if the number entered is 10 it should say if it is even or odd and a
 [Solution](https://github.com/AkshayDevkate/TestGorrila-/blob/main/One.php)
 
 ## Question two)
-Intermediate
+
 
 Find out if the product of elements in array is prime or not 
 for example array consist of following elements 
@@ -21,14 +21,9 @@ return 0 when the number is prime or return -1 when the number is not prime
 [Solution](https://github.com/AkshayDevkate/TestGorrila-/blob/main/two.php)
 
 ## Question Three)
-Advanced
-
 [question](https://github.com/AkshayDevkate/TestGorrila-/blob/main/IMG_20210609_193337.jpg)
 
+[Solution](https://github.com/AkshayDevkate/TestGorrila-/blob/main/parameter.php)
 
-Solution approach 1 with default parameterised constructor [Link](https://github.com/AkshayDevkate/TestGorrila-/blob/main/parameter.php)
 
-Solution approach 2 simple array sort [Link]()
-
-Solution approach 3 using rsort() method of [Link]()
 
