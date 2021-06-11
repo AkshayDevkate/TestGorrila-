@@ -13,6 +13,8 @@ class ArraySort{// clss name
   }
 }
 
+  
+// array passed to the class
 $newarray = array(11,-2,4,35,0,8,-9);
 
 
